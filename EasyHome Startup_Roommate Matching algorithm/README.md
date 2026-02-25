@@ -86,7 +86,7 @@ Then, copy the code into your new project and run it. The pycharm console will p
 
 # CONTACT US:
 For further information or help please contact:
-dvosseberg.ieu2022@student.ie.edu
+dvossberg.ieu2022@student.ie.edu
 
 This README file will constantly be updated by the developers of the project: Naji, Diana, Emily.
 
